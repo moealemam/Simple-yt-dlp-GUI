@@ -23,7 +23,7 @@ A minimal Windows Forms GUI for yt-dlp. Download the best quality video or selec
    - ffmpeg (Windows builds): https://www.gyan.dev/ffmpeg/builds/ or https://www.ffmpeg.org/download.html
 3. Place `yt-dlp.exe` in the same folder as `ffmpeg.exe`.
    - Example: `C:\Tools\yt-dlp` containing `yt-dlp.exe`, `ffmpeg.exe`, `ffprobe.exe`.
-4. Build the app or download the `Simple yt-dlp GUI.exe` from the releases section and run it.
+4. Build the app or download the `Simple yt-dlp GUI.exe` from the [releases](https://github.com/moealemam/Simple-yt-dlp-GUI/releases) section and run it.
 
 ## Usage
 1. Set the `yt-dlp/ffmpeg` directory (use Browse) to the folder containing `yt-dlp.exe` and `ffmpeg.exe`.
