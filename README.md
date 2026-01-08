@@ -1,6 +1,7 @@
 # yt-dlp GUI (Windows)
 
 A minimal Windows Forms GUI for yt-dlp. Download the best quality video or selected subtitles from YouTube using an easy interface.
+<img width="802" height="482" alt="image" src="https://github.com/user-attachments/assets/2c8e9ac3-3fe9-4ae1-b445-149d6a717b2d" />
 
 ## Features
 - Download best video + audio merged to MP4
@@ -22,7 +23,7 @@ A minimal Windows Forms GUI for yt-dlp. Download the best quality video or selec
    - ffmpeg (Windows builds): https://www.gyan.dev/ffmpeg/builds/ or https://www.ffmpeg.org/download.html
 3. Place `yt-dlp.exe` in the same folder as `ffmpeg.exe`.
    - Example: `C:\Tools\yt-dlp` containing `yt-dlp.exe`, `ffmpeg.exe`, `ffprobe.exe`.
-4. Build or download the GUI app and run it.
+4. Build the app or download the `Simple yt-dlp GUI.exe` from the releases section and run it.
 
 ## Usage
 1. Set the `yt-dlp` directory (use Browse) to the folder containing `yt-dlp.exe` and `ffmpeg.exe`.
